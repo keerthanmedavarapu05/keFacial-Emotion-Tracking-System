@@ -1,0 +1,5 @@
+Timestamp,Mood Score,Emoji,Mood Text
+2025-04-20 13:45:01,100,😄,You look happy!
+2025-04-20 13:45:10,75,😐,Neutral mood detected
+2025-04-20 13:45:20,50,😲,You look shocked!
+2025-04-20 13:45:30,-10,😴,You look tired or sad.
